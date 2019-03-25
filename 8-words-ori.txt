@@ -1,0 +1,8 @@
+[cat] 7378
+[hippopotamus] 1537
+[dog] 24983
+[horse] 25611
+[elephant] 889
+[monkey] 2326
+[mouse] 17670
+[tarantula] 24218
